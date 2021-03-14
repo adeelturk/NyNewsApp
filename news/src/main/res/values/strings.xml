@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="news_item_detail_transition_name" translatable="false">news_detail_transition</string>
+    <string name="news_item_transition_name" translatable="false">news_item_%1$s</string>
+    <string name="ny_times" translatable="false">New Yourk Times</string>
+    <string name="most_popular" translatable="false">Most Popular</string>
+</resources>

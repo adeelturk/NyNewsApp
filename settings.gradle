@@ -1,0 +1,9 @@
+include ':app'
+include ':common'
+include ':dtos'
+include ':network'
+include ':repositories'
+include ':business'
+include ':news'
+
+rootProject.name = "Newyorktimes"
